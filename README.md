@@ -1,5 +1,5 @@
 # routerattack
-ESP8266 Arduino micro game using nearby WIFI routers as enemies 
+ESP8266 Arduino micro game using nearby WIFI routers as enemies - demo video at https://youtu.be/M7V6PAmy-XY
 
 In a drawer I’ve found a Heltec WiFi Kit 8, which is a small ESP8266 with integrated 128x32 Oled screen and I’ve started to think what to do with it for the Tech at home contest.
 
