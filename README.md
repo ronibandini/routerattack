@@ -23,6 +23,12 @@ The formula used to calculate the distance between fire coordinates and target i
 
 z=sqrt( (currentRSSI-selectedRSSI)*(currentRSSI-selectedRSSI)+ (currentChannel-selectedChannel)*(currentChannel-selectedChannel) );  
 
+# Case 
+
+For the case, a regular Altoids can will work. Here you can download the 3d printed case front.
+
+https://www.thingiverse.com/thing:4460079
+
 # Where to go from here?           
 
 EEProm storage of score and targets, statistics of routers by encryption type. You can even create a WiFi chart analyze tool with the same coding that the game has. 
