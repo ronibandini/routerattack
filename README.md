@@ -27,6 +27,11 @@ z=sqrt( (currentRSSI-selectedRSSI)*(currentRSSI-selectedRSSI)+ (currentChannel-s
 
 For the case, a regular Altoids can will work. Here you can download the 3d printed case front.
 
+# Contact 
+📫 For code customizations or interesting Arduino and Raspberry Pi projects you can reach me at 
+https://www.instagram.com/ronibandini/
+https://x.com/RoniBandini
+
 https://www.thingiverse.com/thing:4460079
 
 # Where to go from here?           
