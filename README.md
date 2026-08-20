@@ -390,6 +390,13 @@ Watch Router Attack in action:
 
 Router Attack has been documented and referenced outside GitHub.
 
+### Hackaday
+
+**[WiFi Networks Turned Targets In This Pocket Game](https://hackaday.com/2020/06/20/wifi-networks-turned-targets-in-this-pocket-game/)**
+
+Hackaday featured Router Attack in an article by Tom Nardi, describing how the Heltec WiFi Kit 8 turns nearby Wi-Fi networks into game targets using signal strength and encryption type. The article also highlights the Altoids tin enclosure and portable design.
+
+
 ### Hackster.io
 
 **[Battle Against Wireless Routers with this Altoids Tin Game](https://www.hackster.io/news/battle-against-wireless-routers-with-this-altoids-tin-game-9f74ff9d48ea)**
